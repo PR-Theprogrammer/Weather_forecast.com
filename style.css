@@ -1,0 +1,39 @@
+html { 
+          background: url("bckgrnd_image.jpg") no-repeat center center fixed; 
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+          }
+        
+          body {
+            background: none;
+            }
+          
+          .container {
+            text-align: center;
+              margin-top: 100px;
+              width: 450px;
+            }
+          
+          input {
+          margin: 20px 0;
+          }
+          
+          .c_weather {
+              
+              margin-top:15px;
+              height: 100px;
+              width=200px;
+          }
+
+          hr.new5 {
+          border: 2px solid green;
+          }
+
+          .alert-success {
+          margin-bottom: 1px;
+          height: 200px;
+          line-height:30px;
+          padding:0px 15px;
+          }
